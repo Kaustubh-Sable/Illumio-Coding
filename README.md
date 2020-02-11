@@ -10,7 +10,3 @@ To implement the third part, I chose to create a graph node structure where I wo
 We could also use trie structure here (which I initially thought would be good), but it does not efficiently address the problem of ranges and complicates the node structure without much usefulness.
 
 I spent about 70 minutes on coming up with the approach and coding it partially.
-
-Team Preference:
-1. Data Team 
-2. Platform Team
